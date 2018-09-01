@@ -1,0 +1,1 @@
+INSERT INTO tb_user VALUES(NULL, 'rendy',MD5('rendy'))
